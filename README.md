@@ -111,17 +111,17 @@ To explore the data interactively, check out the *Power BI Dashboard* 📊
 
 ## 📩 *Contact*  
 
-💼 *Authors:* [Yogesh]  
+💼 *Authors:* Yogesh
 📧 *Email:* your.email@example.com  
 🌐 *LinkedIn:* [Your LinkedIn Profile]  
 📂 *GitHub:* [Your GitHub Repository]  
 
-💼 *Authors:* [Krishna]  
+💼 *Authors:* Krishna
 📧 *Email:* your.email@example.com  
 🌐 *LinkedIn:* [Your LinkedIn Profile]  
 📂 *GitHub:* [Your GitHub Repository]  
 
-💼 *Authors:* [Malhar]  
+💼 *Authors:* Malhar
 📧 *Email:* your.email@example.com  
 🌐 *LinkedIn:* [Your LinkedIn Profile]  
 📂 *GitHub:* [Your GitHub Repository]  
