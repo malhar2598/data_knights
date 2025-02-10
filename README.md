@@ -110,7 +110,7 @@ To explore the data interactively, check out the *Power BI Dashboard* 📊
 
 
 
-## Project Walkthrough Video
+## 🎥 Project Walkthrough Video
 
 For a detailed walkthrough of the project, including explanations of the approach, implementation, and results, watch the [project presentation video](https://drive.google.com/file/d/1u2XTPLQZ3FNvJmKbF2VtGDjGB8-jzKh_/view?usp=sharing)
 
