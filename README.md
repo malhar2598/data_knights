@@ -103,6 +103,9 @@ To explore the data interactively, check out the *Power BI Dashboard* 📊
 🔗 [Power BI Dashboard (Upload Screenshot)]  
 
 ---
+![Screenshot 2025-02-10 084155](https://github.com/user-attachments/assets/5847ef0b-575b-4e5b-a966-028505379c69)
+![Screenshot 2025-02-10 084228](https://github.com/user-attachments/assets/a4d7f715-a5f9-4022-a985-fcef65e7dc09)
+![Screenshot 2025-02-10 084249](https://github.com/user-attachments/assets/d8b90609-6ea7-4875-ba17-7a7361c11f67)
 
 ## 📩 *Contact*  
 
