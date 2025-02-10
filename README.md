@@ -107,6 +107,14 @@ To explore the data interactively, check out the *Power BI Dashboard* 📊
 ![Screenshot 2025-02-10 084228](https://github.com/user-attachments/assets/a4d7f715-a5f9-4022-a985-fcef65e7dc09)
 ![Screenshot 2025-02-10 084249](https://github.com/user-attachments/assets/d8b90609-6ea7-4875-ba17-7a7361c11f67)
 
+
+
+## Project Walkthrough Video
+
+For a detailed walkthrough of the project, including explanations of the approach, implementation, and results, watch the [project presentation video](https://drive.google.com/file/d/1u2XTPLQZ3FNvJmKbF2VtGDjGB8-jzKh_/view?usp=sharing)
+
+
+
 ## 📩 *Contact*  
 
 💼 *Author:* Krishna
