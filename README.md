@@ -11,7 +11,8 @@
 - 📊 [Data Sources](#-data-sources)  
 - 🔄 [Project Workflow](#-project-workflow)  
 - 📈 [Key Insights](#-key-insights)  
-- 📊 [Dashboard](#-dashboard)  
+- 📊 [Dashboard](#-dashboard)
+- 🎥 [Project Walkthrough Video](#project-walkthrough-video)
 - 📩 [Contact](#-contact)  
 
 ---
