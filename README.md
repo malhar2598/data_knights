@@ -12,7 +12,7 @@
 - 🔄 [Project Workflow](#-project-workflow)  
 - 📈 [Key Insights](#-key-insights)  
 - 📊 [Dashboard](#-dashboard)
-- 🎥 [Project Walkthrough Video](#project-walkthrough-video)
+- 🎥 [Project Walkthrough Video](#-project-walkthrough-video)
 - 📩 [Contact](#-contact)  
 
 ---
